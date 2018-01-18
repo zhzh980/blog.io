@@ -1,11 +1,22 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "Who am I " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+Zhang Zihao
+
+XJTU 软件工程
+
+Hobby
+
+阅读
+吉他
+音乐
+偶尔跑步
+
+就很酷
 
 
 
